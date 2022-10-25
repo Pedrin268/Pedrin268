@@ -68,3 +68,5 @@ Tenho 15 anos, sou apaixonada por programação e felinos! Sou iniciante no univ
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrin268&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/Pedrin268/Pedrin268/blob/output/github-contribution-grid-snake.svg)
