@@ -69,4 +69,4 @@ Tenho 15 anos, sou apaixonada por programação e felinos! Sou iniciante no univ
 </a>
 </p>
 
-![Snake animation](https://github.com/Pedrin268/Pedrin268/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
