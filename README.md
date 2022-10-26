@@ -69,4 +69,20 @@ Tenho 15 anos, sou apaixonada por programação e felinos! Sou iniciante no univ
 </a>
 </p>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<div display="inline-block">
+ <p align="left">📚 Tenho estudado javascript e kotlin, iniciei meus estudos para desenvolver bots para o discord;</p>
+ <p align="left">☕🎮 Só acordo com café, adoro games.</p>
+</div>
+</br>
+📫 Você pode falar comigo pelo [Discord](https://www.discord.com/invite/qeTg2KT8Za)(eu demoro a responder as vezes mas sou legal, juro 🙃).
+</br>
+<a href="https://twitter.com/Pedrin_268" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+##
+<p align="center">
+<a href="https://github.com/pedrin268">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrin268&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrin268&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![Snake animation](https://github.com/Pedrin268/Pedrin268/blob/output/github-contribution-grid-snake.svg)
