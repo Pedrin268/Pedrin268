@@ -26,7 +26,7 @@ Tenho 15 anos, sou apaixonado por programação! Sou iniciante no universo da pr
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://pedrin268.dev/assts/img/pedrin_anjo.png">
+<img width="300px" align="right" src="https://pedrin268.dev/assets/img/pedrin_anjo.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
