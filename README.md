@@ -6,14 +6,11 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Pedrin_268</h1>
- <a href="https://www.instagram.com/jeniblo_dev/">
+ <a href="https://www.instagram.com/pedrin_268/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/jeniblo_dev">
+  <a href="https://twitter.com/Pedrinho_268">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
@@ -22,7 +19,7 @@
 
 ## Hello, Devs!!
 
-Tenho 15 anos, sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 15 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -64,5 +61,3 @@ Tenho 15 anos, sou apaixonada por programação e felinos! Sou iniciante no univ
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrin268&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![Snake animation](https://github.com/Pedrin268/Pedrin268/blob/output/github-contribution-grid-snake.svg)
