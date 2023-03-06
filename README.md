@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://pedrin268.dev/assets/img/pedrin_oi.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://pedrin268.dev/assets/img/pedrin_oi.webp">
 
 </br>
 </br>
@@ -38,7 +38,6 @@ Tenho 15 anos, sou apaixonado por programação! Sou iniciante no universo da pr
 </br>
 <div display="inline-block">
  <p align="left">📚 Tenho estudado javascript e kotlin, iniciei meus estudos para desenvolver bots para o discord;</p>
- <p align="left">☕🎮 Só acordo com café, adoro games.</p>
 </div>
 
 </br>
@@ -46,8 +45,6 @@ Tenho 15 anos, sou apaixonado por programação! Sou iniciante no universo da pr
 📫 Você pode falar comigo pelo [Discord](https://www.discord.com/invite/qeTg2KT8Za)(eu demoro a responder as vezes mas sou legal, juro 🙃).
 
 </br>
-
-<a href="https://twitter.com/Pedrin_268" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 
 ##
 <p align="center">
