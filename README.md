@@ -32,6 +32,7 @@ Tenho 16 anos, sou apaixonado por programação! Sou iniciante no universo da pr
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+[![Better Uptime Badge](https://beteruptime.com/status-badges/v1/monitor/kotx.svg)
 
 
 </br>
