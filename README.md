@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://pedrin268.dev/src/img/pedrin_oi.webp">
+<img align="right" width="250px" style="margin-top:-20px" src="https://cdn.pedrin268.dev/pedrin_hi.png">
 
 </br>
 </br>
@@ -19,7 +19,7 @@
 
 ## Hello, Devs!!
 
-Tenho 16 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo eu passo raiva, mais eu amo tudo isso! ❤
+Tenho 17 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo eu passo raiva, mais eu amo tudo isso! ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
