@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://cdn.pedrin268.dev/pedrin_hi.png">
+<img align="right" width="140" style="margin-top:-20px" src="https://cdn.pedrin268.dev/pedrin_hi.png">
 
 </br>
 </br>
