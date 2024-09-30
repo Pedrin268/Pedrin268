@@ -3,20 +3,6 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
- 
- <h1 align="left">Pedrin_268</h1>
- <a href="https://www.instagram.com/pedrin_268/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/Pedrinho_268">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-</div>
-
-</br>
-</br>
-
 ## Hello, Devs!!
 
 Tenho 17 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo eu passo raiva, mais eu amo tudo isso! ❤
