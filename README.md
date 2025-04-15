@@ -5,9 +5,9 @@
 
 ## Hello, Devs!!
 
-Tenho 17 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo eu passo raiva, mais eu amo tudo isso! ❤
+Tenho 18 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e espero aprender bastante pois tenho um interesse muito grande nessa área! ❤
 
-<img width="200px" align="right" src="https://cdn.pedrin268.dev/pedrin_love.png">
+<img width="170px" align="right" src="https://cdn.pedrin268.dev/pedrin_love.png">
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -19,15 +19,7 @@ Tenho 17 anos, sou apaixonado por programação! Sou iniciante no universo da pr
 </br>
 
 <div display="inline-block">
- <p align="left">📚 Tenho estudado javascript, iniciei meus estudos para desenvolver bots para o discord;</p>
+ <p align="left">📚 Atualmente estou fazendo Graduação em Engenharia de Software no <a href="https://www.opet.com.br/">Centro Universitário UniOpet</a></p>
 </div>
 
 </br>
-
-##
-<p align="center">
-<a href="https://github.com/pedrin268">
-  <img width="355" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrin268&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="415" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrin268&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
