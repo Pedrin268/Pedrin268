@@ -5,7 +5,7 @@
 
 ## Hello, Devs!!
 
-Tenho 18 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e espero aprender bastante pois tenho um interesse muito grande nessa área! ❤
+Tenho 19 anos, sou apaixonado por programação! Sou iniciante no universo da programação, e espero aprender bastante pois tenho um interesse muito grande nessa área! ❤
 
 <img width="170px" align="right" src="https://cdn.pedrin268.dev/pedrin_love.png">
 
